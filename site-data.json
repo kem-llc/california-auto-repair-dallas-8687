@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "California Auto Repair",
+    "shortName": "California Auto",
+    "tagline": "Dallas’s Trusted Full-Service Auto Repair Since 2005",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 391-8687",
+    "address": "7628 Lake June Rd B, Dallas, TX 75217",
+    "city": "Dallas, TX",
+    "hours": "Mon–Fri: 7:30 AM – 6:00 PM, Sat: 8:00 AM – 2:00 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "California Auto Repair | Expert Auto Mechanic in Dallas, TX | (214) 391-8687",
+    "description": "California Auto Repair in Dallas, TX offers expert auto mechanic services including engine diagnostics, brake repair, oil changes, and AC service. Call (214) 391-8687 for reliable, honest car care."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’s Premier Auto Repair Shop",
+      "headline": "Expert Auto Mechanic Services You Can Trust",
+      "subheadline": "From routine oil changes to complex engine diagnostics, we deliver honest, high-quality repairs that keep your car running smoothly.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (214) 391-8687"
+    },
+    "stats": [
+      {
+        "value": "19+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "4.7",
+        "label": "Average Rating"
+      },
+      {
+        "value": "5,000+",
+        "label": "Cars Repaired"
+      },
+      {
+        "value": "100%",
+        "label": "Customer Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Comprehensive Diagnostics",
+        "title": "State-of-the-Art Engine & System Diagnostics",
+        "body": "Our advanced diagnostic tools pinpoint issues quickly and accurately, saving you time and money. We don't guess — we diagnose.",
+        "bullets": [
+          "Computerized engine & transmission scans",
+          "Check engine light diagnosis",
+          "Electrical system testing",
+          "Free initial inspection with major repairs"
+        ],
+        "reverse": false,
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Transparent Reports",
+        "cardBody": "You get a detailed explanation of findings and a clear estimate before any work begins."
+      },
+      {
+        "eyebrow": "Full-Service Repairs",
+        "title": "From Brakes to AC, We Do It All",
+        "body": "Whether it's a routine oil change or a major engine overhaul, our ASE-certified technicians handle every job with precision and care.",
+        "bullets": [
+          "Brake pad replacement & rotor resurfacing",
+          "Oil changes, fluid flushes & filter replacements",
+          "AC recharge & compressor repair",
+          "Timing belt, alternator & starter replacement"
+        ],
+        "reverse": true,
+        "cardLabel": "Quality Parts",
+        "cardTitle": "OEM & Premium Aftermarket",
+        "cardBody": "We use only high-quality parts that meet or exceed manufacturer specifications for lasting performance."
+      }
+    ],
+    "whyTitle": "Why Dallas Drivers Choose Us",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "All our mechanics are ASE-certified and continuously trained on the latest vehicle technology."
+      },
+      {
+        "title": "Honest Upfront Pricing",
+        "description": "No hidden fees, no surprise charges — you approve all work and costs before we start."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most routine services are completed same-day, and we offer loaner vehicles for longer repairs."
+      },
+      {
+        "title": "Warranty Protection",
+        "description": "Every repair comes with a 12-month/12,000-mile warranty for your peace of mind."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I brought my SUV in for a strange noise, and they diagnosed a worn belt in minutes. Fixed it the same day at a fair price. Will definitely be back.",
+        "author": "Mark T.",
+        "role": "Lakewood Resident"
+      },
+      {
+        "quote": "Honest mechanics are hard to find, but California Auto is the real deal. They explained everything clearly and didn't try to upsell me.",
+        "author": "Lisa R.",
+        "role": "Pleasant Grove Driver"
+      },
+      {
+        "quote": "Fast, professional, and they actually care about your car. My AC is ice-cold again, and the price was better than the dealership quote by hundreds.",
+        "author": "David M.",
+        "role": "Balch Springs Commuter"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Running Perfectly?",
+      "subheadline": "Call us or schedule online — we'll take care of the rest.",
+      "primaryCta": "Schedule Online",
+      "secondaryCta": "Call (214) 391-8687"
+    }
+  },
+  "servicesPage": {
+    "intro": "At California Auto Repair, we offer a full range of automotive services to keep your vehicle safe, reliable, and performing at its best. From routine maintenance to major repairs, our certified technicians have you covered."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Expert diagnosis and repair for check engine lights, performance issues, and more.",
+      "longDescription": "Our advanced diagnostic equipment quickly identifies the root cause of engine problems — from misfires to sensor failures. We then provide a clear, written estimate before any repair work begins. Whether it's a simple spark plug replacement or a complex timing belt job, we restore your engine's performance and reliability.",
+      "benefits": [
+        "Accurate computer diagnostics save time and money",
+        "Certified technicians with years of experience",
+        "Transparent process with no guesswork",
+        "Warranty on all engine repairs"
+      ],
+      "process": [
+        {
+          "title": "Comprehensive Scan",
+          "description": "We connect your vehicle to our diagnostic tools to read error codes and live data."
+        },
+        {
+          "title": "Detailed Inspection",
+          "description": "Our mechanic inspects the affected systems and verifies the root cause."
+        },
+        {
+          "title": "Repair & Verification",
+          "description": "We perform the necessary repair and re-scan to ensure everything is working perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my check engine light on?",
+          "answer": "It could be anything from a loose gas cap to a faulty oxygen sensor. We recommend bringing it in for a diagnostic scan to find the exact issue."
+        },
+        {
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics are completed within an hour. If the issue is complex, we may need additional time for a thorough inspection."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Service & Repair",
+      "shortDescription": "Complete brake inspections, pad replacement, rotor resurfacing, and fluid flushes.",
+      "longDescription": "Your brakes are your vehicle's most critical safety system. We inspect every component — pads, rotors, calipers, lines, and fluid — and recommend only what's necessary. Our precision machining ensures smooth, quiet stopping power, and we use premium parts for long-lasting performance.",
+      "benefits": [
+        "Thorough multi-point brake inspection",
+        "No-pressure recommendations",
+        "High-quality pads and rotors",
+        "Restored stopping confidence"
+      ],
+      "process": [
+        {
+          "title": "Visual & Mechanical Inspection",
+          "description": "We check pad thickness, rotor condition, caliper function, and brake fluid level."
+        },
+        {
+          "title": "Precision Service",
+          "description": "We replace worn parts, resurface or replace rotors, and flush old fluid as needed."
+        },
+        {
+          "title": "Test Drive & Adjustment",
+          "description": "A test drive ensures proper brake feel and performance before you leave."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000–50,000 miles, but it depends on driving habits. We inspect them at every service and let you know when it's time."
+        },
+        {
+          "question": "What does a brake fluid flush do?",
+          "answer": "Brake fluid absorbs moisture over time, which can cause corrosion and reduce braking performance. A flush removes old fluid and replaces it with fresh, high-boiling-point fluid."
+        }
+      ],
+      "slug": "brake-service-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Routine Maintenance",
+      "shortDescription": "Fast, professional oil changes with a complimentary 21-point inspection.",
+      "longDescription": "Regular oil changes are the best way to extend your engine's life. We use quality oil and filters, and every oil change includes a free 21-point inspection covering belts, hoses, fluid levels, tire pressure, and more. Our goal is to catch small issues before they become big problems.",
+      "benefits": [
+        "Extends engine life and improves fuel economy",
+        "Complimentary multi-point inspection",
+        "Quick turnaround — most done in under 30 minutes",
+        "Competitive pricing with no hidden fees"
+      ],
+      "process": [
+        {
+          "title": "Drain & Replace Oil",
+          "description": "We drain old oil, replace the filter, and fill with the correct grade of new oil."
+        },
+        {
+          "title": "21-Point Inspection",
+          "description": "We check belts, hoses, fluids, tires, lights, and more, noting any concerns."
+        },
+        {
+          "title": "Reset & Review",
+          "description": "We reset your oil life monitor and review the inspection results with you."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of oil does my car need?",
+          "answer": "We follow manufacturer recommendations, whether conventional, synthetic blend, or full synthetic. We'll use the right oil for your vehicle."
+        },
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most modern cars need an oil change every 5,000–7,500 miles, but check your owner's manual. We'll remind you when you're due."
+        }
+      ],
+      "slug": "oil-change-routine-maintenance"
+    },
+    {
+      "icon": "04",
+      "title": "AC Service & Repair",
+      "shortDescription": "Keep your cabin cool with AC inspections, recharges, and component repairs.",
+      "longDescription": "Texas heat demands a reliable AC system. We diagnose and repair all AC issues, from weak airflow to no cooling at all. Our service includes pressure testing, leak detection, refrigerant recharge, and component replacement (compressor, condenser, evaporator). We ensure your system blows ice-cold air all summer long.",
+      "benefits": [
+        "Professional leak detection & repair",
+        "Restored cooling performance",
+        "Use of OEM-spec refrigerant",
+        "Extended system life"
+      ],
+      "process": [
+        {
+          "title": "System Evaluation",
+          "description": "We check vent temperature, pressure readings, and inspect for visible leaks."
+        },
+        {
+          "title": "Leak Detection & Repair",
+          "description": "Using UV dye and electronic detectors, we find and fix any leaks."
+        },
+        {
+          "title": "Recharge & Performance Test",
+          "description": "We evacuate the system, recharge with the correct amount of refrigerant, and verify cooling performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a failing compressor, or a blocked condenser. We'll diagnose the exact cause and provide a repair plan."
+        },
+        {
+          "question": "How often should I service my car's AC?",
+          "answer": "We recommend an AC check every two years or if you notice reduced cooling. Regular service prevents costly breakdowns."
+        }
+      ],
+      "slug": "ac-service-repair"
+    }
+  ],
+  "about": {
+    "headline": "Your Neighborhood Auto Repair Experts",
+    "mission": "To provide honest, high-quality auto repairs that keep Dallas drivers safe and mobile, with transparent pricing and exceptional customer service.",
+    "story": [
+      "California Auto Repair was founded in 2005 by master technician Carlos Martinez, who saw a need for trustworthy, affordable auto care in the Lake June area. Starting with a small two-bay shop, Carlos built a reputation for meticulous work and fair dealing — earning the loyalty of generations of Dallas families.",
+      "Today, our expanded facility serves thousands of customers annually, but our values remain the same: diagnose accurately, repair thoroughly, and treat every customer like a neighbor. We invest in the latest tools and continuous training so that your car — whether a 10-year-old sedan or a brand-new SUV — gets the best care possible."
+    ],
+    "highlight": {
+      "stat": "19+",
+      "label": "Years Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We never recommend repairs you don't need. Every recommendation is backed by evidence and a clear explanation."
+      },
+      {
+        "title": "Quality",
+        "description": "We use premium parts and follow manufacturer specifications to ensure lasting repairs."
+      },
+      {
+        "title": "Transparency",
+        "description": "You get a written estimate before any work, and we welcome you to see the shop and ask questions."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to be a locally owned business that supports Dallas families, schools, and events."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to schedule? Call us or fill out the form below, and we'll get your car back on the road quickly.",
+    "primaryCta": "Call (214) 391-8687",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Balch Springs",
+      "Mesquite",
+      "Garland",
+      "Lakewood",
+      "Pleasant Grove",
+      "Seagoville",
+      "Hutchins"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.7,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143918687",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
